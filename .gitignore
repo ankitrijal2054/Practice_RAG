@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Allow only .ipynb files and .gitignore files
+!*.ipynb
+!.gitignore
